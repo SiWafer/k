@@ -5,8 +5,9 @@
 #EXTINF:-1 tvg-id="AEEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/AnE.png" group-title="TV",~~A&E
 http://170.254.18.106/AMC/mono.m3u8
 
-#EXTINF:-1 tvg-id="AMCEast.us" tvg-logo="https://www.freepnglogos.com/uploads/amc-png-logo/amc-media-png-logo-1.png" group-title="TV",~~AMC
-plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivehd.com%2F%2Fstream%2Fstream-303.php
+#EXTINF:-1 tvg-id="AMCEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/AMC.png" group-title="TV",AMC
+http://170.254.18.106/AMC/mono.m3u8
+#https://bcovlive-a.akamaihd.net/94e1185924514d0694019d24cfca7121/us-east-1/6240731308001/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AnimalPlanetEast.us" tvg-logo="https://wildaid.org/wp-content/uploads/2021/08/animal-planet-logo-white.png" group-title="TV",~~Animal Planet
 plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivehd.sx%2F%2Fstream%2Fstream-304.php
@@ -68,8 +69,8 @@ plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivehd.sx%
 #EXTINF:-1 tvg-id="NationalGeographicWildEast.us" tvg-logo="https://www.seekpng.com/png/full/760-7606470_nat-geo-wild-nat-geo-wild-hd-logo.png" group-title="TV",~~Nat Geo Wild
 plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivehd.sx%2F%2Fstream%2Fstream-745.php
 
-#EXTINF:-1 tvg-id="ParamountNetworkEast.us" tvg-logo="https://www.effectv.com/wp-content/uploads/2021/10/Paramount-Network-White.png" group-title="TV",~~Paramount Network
-plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivehd.sx%2F%2Fstream%2Fstream-334.php
+#EXTINF:-1 tvg-id="ParamountNetworkEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/Paramount.png" group-title="TV",Paramount Network
+http://livex.pop-app.live/s4n/poplive/ch544/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SyfyEast.us" tvg-logo="https://www.pngkey.com/png/full/341-3418694_syfy-2017-vertical-logo-2-syfy-logo.png" group-title="TV",~~SYFY
 plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivehd.sx%2F%2Fstream%2Fstream-373.php
