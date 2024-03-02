@@ -3,11 +3,11 @@
 #EXTINF:-1 ------------TV---------------
 
 #EXTINF:-1 tvg-id="AEEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/AnE.png" group-title="TV",~~A&E
-http://170.254.18.106/AMC/mono.m3u8
+plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3Dfe210405e320ca4176406b49ad0c2819
 
 #EXTINF:-1 tvg-id="AMCEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/AMC.png" group-title="TV",AMC
 http://170.254.18.106/AMC/mono.m3u8
-#https://bcovlive-a.akamaihd.net/94e1185924514d0694019d24cfca7121/us-east-1/6240731308001/playlist.m3u8
+# https://bcovlive-a.akamaihd.net/94e1185924514d0694019d24cfca7121/us-east-1/6240731308001/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AnimalPlanetEast.us" tvg-logo="https://wildaid.org/wp-content/uploads/2021/08/animal-planet-logo-white.png" group-title="TV",~~Animal Planet
 plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivehd.sx%2F%2Fstream%2Fstream-304.php
