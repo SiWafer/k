@@ -3,7 +3,7 @@
 #EXTINF:-1 ------------TV---------------
 
 #EXTINF:-1 tvg-id="AEEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/AnE.png" group-title="TV",~~A&E
-plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3Dfe210405e320ca4176406b49ad0c2819
+plugin://plugin.video.tvone112/play/78/1401/play.pvr
 
 #EXTINF:-1 tvg-id="AMCEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/AMC.png" group-title="TV",AMC
 http://170.254.18.106/AMC/mono.m3u8
