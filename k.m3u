@@ -40,7 +40,7 @@ plugin://plugin.video.tvone112/play/78/1418/play.pvr
 #EXTINF:-1 tvg-id="FXEast.us" tvg-logo="https://www.seekpng.com/png/full/302-3027403_fx-logo-fx-logo-white-png.png" group-title="TV",~~FX
 plugin://plugin.video.tvone112/play/78/1419/play.pvr
 
-#EXTINF:-1 tvg-id="FXMovieChannel.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/kodi/master/icon/FXM.png" group-title="TV",~~FXM
+#EXTINF:-1 tvg-id="FXMovieChannel.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/FXM.png" group-title="TV",~~FXM
 plugin://plugin.video.tvone112/play/78/2164/play.pvr
 
 #EXTINF:-1 tvg-id="FXXEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/FXX.png" group-title="TV",FXX
