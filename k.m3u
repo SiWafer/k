@@ -9,15 +9,15 @@ plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cr
 http://170.254.18.106/AMC/mono.m3u8
 # https://bcovlive-a.akamaihd.net/94e1185924514d0694019d24cfca7121/us-east-1/6240731308001/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AnimalPlanetEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/AnimalPlanet.png" group-title="TV",~~Animal Planet
-# plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivehd.sx%2F%2Fstream%2Fstream-304.php
+         #EXTINF:-1 tvg-id="AnimalPlanetEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/AnimalPlanet.png" group-title="TV",~~Animal Planet
+         #plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivehd.sx%2F%2Fstream%2Fstream-304.php
 
 #EXTINF:-1 tvg-id="BBCAmericaEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/BBCAmerica.png" group-title="TV",BBC America
 https://bcovlive-a.akamaihd.net/cde8d9416f6d4f1da0a4e8cfde6e8b2c/us-east-1/6240731308001/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BravoEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/BravoWhite.png" group-title="TV",Bravo TV
 http://170.254.18.106/BRAVO/index.m3u8
-# http://livex.pop-app.live/s4n/poplive/ch316/playlist.m3u8
+#http://livex.pop-app.live/s4n/poplive/ch316/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CartoonNetworkEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/CartoonNetwork2.png" group-title="TV",Cartoon Network aka SWIM
 https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_us/streams/us/AdultSwimEast.us.m3u8
@@ -25,26 +25,29 @@ https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_us/st
 #EXTINF:-1 tvg-id="ComedyCentralEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/ComedyCentral.png" group-title="TV",Comedy Central
 http://170.254.18.106/COMEDY_CENTRAL/mono.m3u8
 
-#EXTINF:-1 tvg-id="DiscoveryChannelEast.us" tvg-logo="https://www.effectv.com/wp-content/uploads/2021/10/DSC_Logo_2019_Stack_BW-Reverse_RGB.png" group-title="TV",~~Discovery
-plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivehd.sx%2F%2Fstream%2Fstream-313.php
+      #EXTINF:-1 tvg-id="DiscoveryChannelEast.us" tvg-logo="https://www.effectv.com/wp-content/uploads/2021/10/DSC_Logo_2019_Stack_BW-Reverse_RGB.png" group-title="TV",~~Discovery
+      #plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivehd.sx%2F%2Fstream%2Fstream-313.php
 
-#EXTINF:-1 tvg-id="EEast.us" tvg-logo="https://seeklogo.com/images/E/Entertainment_Television-logo-CC86AB23AE-seeklogo.com.png" group-title="TV",~~E! Entertainment
-plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivehd.sx%2F%2Fstream%2Fstream-315.php
+#EXTINF:-1 tvg-id="DiscoveryFamily.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/DiscoveryFamily.png" group-title="TV",Discovery Family
+http://livex.pop-app.live/s4n/poplive/ch526/playlist.m3u8
 
-#EXTINF:-1 tvg-id="FXEast.us" tvg-logo="https://www.seekpng.com/png/full/302-3027403_fx-logo-fx-logo-white-png.png" group-title="TV",~~FX
-plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivehd.sx%2F%2Fstream%2Fstream-317.php
+#EXTINF:-1 tvg-id="EEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/E!.png" group-title="TV",E! Entertainment
+http://livex.pop-app.live/s4n/poplive/ch308/playlist.m3u8
 
-#EXTINF:-1 tvg-id="FXMovieChannel.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/kodi/master/icon/FXM.png" group-title="TV",~~FXM
-plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivehd.sx%2F%2Fstream%2Fstream-381.php
+     #EXTINF:-1 tvg-id="FreeformEast.us" tvg-logo="https://i.imgur.com/BGAGeIf.png" group-title="TV",~~Freeform
+     #plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivehd.sx%2F%2Fstream%2Fstream-301.php
 
-#EXTINF:-1 tvg-id="FXXEast.us" tvg-logo="https://www.nicepng.com/png/full/376-3768018_fxx-logo-fxx-logo-png-white.png" group-title="TV",~~FXX
-plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivehd.sx%2F%2Fstream%2Fstream-298.php
+     #EXTINF:-1 tvg-id="FXEast.us" tvg-logo="https://www.seekpng.com/png/full/302-3027403_fx-logo-fx-logo-white-png.png" group-title="TV",~~FX
+     #plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivehd.sx%2F%2Fstream%2Fstream-317.php
 
-#EXTINF:-1 tvg-id="FreeformEast.us" tvg-logo="https://i.imgur.com/BGAGeIf.png" group-title="TV",~~Freeform
-plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivehd.sx%2F%2Fstream%2Fstream-301.php
+     #EXTINF:-1 tvg-id="FXMovieChannel.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/kodi/master/icon/FXM.png" group-title="TV",~~FXM
+     #plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivehd.sx%2F%2Fstream%2Fstream-381.php
 
-#EXTINF:-1 tvg-id="HGTVEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/kodi/master/icon/HGTV.png" group-title="TV",~~HGTV
-plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivehd.sx%2F%2Fstream%2Fstream-382.php
+     #EXTINF:-1 tvg-id="FXXEast.us" tvg-logo="https://www.nicepng.com/png/full/376-3768018_fxx-logo-fxx-logo-png-white.png" group-title="TV",~~FXX
+     #plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivehd.sx%2F%2Fstream%2Fstream-298.php
+
+#EXTINF:-1 tvg-id="HGTV.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/kodi/master/icon/HGTV.png" group-title="TV",HGTV
+http://livex.pop-app.live/s4n/poplive/ch323/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HallmarkChannelEast.us" tvg-logo="https://www.pngkey.com/png/full/223-2230265_advertise-on-h-mark-channel-comcast-spotlight-advertising.png" group-title="TV",~~Hallmark
 plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivehd.sx%2F%2Fstream%2Fstream-320.php
@@ -140,8 +143,8 @@ https://twcprod-live.twc-tv.com/v1/manifest/b4d4d63a49309cc5140171fb2e92485c31be
 
 #EXTINF:-1 ------------Cooking / Home ---------------
 
-#EXTINF:-1 tvg-id="FoodNetworkEast.us" tvg-logo="https://i.imgur.com/ljYzkQT.png" group-title="Cooking/Home",~~Food Network
-plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivehd.sx%2F%2Fstream%2Fstream-313.php
+#EXTINF:-1 tvg-id="FoodNetworkEast.us" tvg-logo="https://i.imgur.com/ljYzkQT.png" group-title="Cooking/Home",Food Network
+http://livex.pop-app.live/s4n/poplive/ch211/playlist.m3u8
 
 #EXTINF:-1 tvg-id="bonappetit.us" tvg-logo="https://i.imgur.com/YhFFxlE.png" group-title="Cooking/Home",bon appétit
 https://bonappetit-samsung.amagi.tv/playlist.m3u8
