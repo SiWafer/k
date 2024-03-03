@@ -9,17 +9,18 @@ plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cr
 http://170.254.18.106/AMC/mono.m3u8
 # https://bcovlive-a.akamaihd.net/94e1185924514d0694019d24cfca7121/us-east-1/6240731308001/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AnimalPlanetEast.us" tvg-logo="https://wildaid.org/wp-content/uploads/2021/08/animal-planet-logo-white.png" group-title="TV",~~Animal Planet
-plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivehd.sx%2F%2Fstream%2Fstream-304.php
+#EXTINF:-1 tvg-id="AnimalPlanetEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/AnimalPlanet.png" group-title="TV",~~Animal Planet
+# plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivehd.sx%2F%2Fstream%2Fstream-304.php
 
-#EXTINF:-1 tvg-id="BBCAmericaEast.us" tvg-logo="https://www.effectv.com/wp-content/uploads/2021/10/BBC-America-Stacked-White-Small.png" group-title="TV",~~BBC America
-plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivehd.sx%2F%2Fstream%2Fstream-305.php
+#EXTINF:-1 tvg-id="BBCAmericaEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/BBCAmerica.png" group-title="TV",BBC America
+https://bcovlive-a.akamaihd.net/cde8d9416f6d4f1da0a4e8cfde6e8b2c/us-east-1/6240731308001/playlist.m3u8
 
-#EXTINF:-1 tvg-id="BravoEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bravo_2017_logo.svg/2560px-Bravo_2017_logo.svg.png" group-title="TV",~~Bravo TV
-plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivehd.sx%2F%2Fstream%2Fstream-307.php
+#EXTINF:-1 tvg-id="BravoEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/BravoWhite.png" group-title="TV",Bravo TV
+http://170.254.18.106/BRAVO/index.m3u8
+# http://livex.pop-app.live/s4n/poplive/ch316/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CartoonNetworkEast.us" tvg-logo="https://www.seekpng.com/png/full/182-1826314_logo-cn-cartoon-network-logo-png-white.png" group-title="TV",~~Cartoon Network
-plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivehd.sx%2F%2Fstream%2Fstream-339.php
+#EXTINF:-1 tvg-id="CartoonNetworkEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/CartoonNetwork2.png" group-title="TV",Cartoon Network
+https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_us/streams/us/AdultSwimEast.us.m3u8
 
 #EXTINF:-1 tvg-id="ComedyCentralEast.us" tvg-logo="https://iili.io/bzDQZ7.png" group-title="TV",~~Comedy Central
 plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivehd.sx%2F%2Fstream%2Fstream-310.php
