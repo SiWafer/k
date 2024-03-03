@@ -113,7 +113,7 @@ plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivehd.sx%
 #EXTINF:-1 tvg-id="Showtime2East.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/512px-Showtime.svg.png" group-title="TV",~~Showtime
 plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivehd.sx%2F%2Fstream%2Fstream-333.php
 
-#EXTINF:-1 tvg-id="StarzCinemaEast.us" tvg-logo="https://i.imgur.com/N7oSm4d.png" group-title="TV",Starz Cinema
+#EXTINF:-1 tvg-id="StarzCinemaEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/StarzCinemaWhite.png" group-title="TV",Starz Cinema
 http://livex.pop-app.live/s4n/poplive/ch503/playlist.m3u8
 
 
