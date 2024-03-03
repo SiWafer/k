@@ -80,7 +80,7 @@ http://livex.pop-app.live/s4n/poplive/ch544/playlist.m3u8
 #EXTINF:-1 tvg-id="SyfyEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/SYFY.png" group-title="TV",~~SYFY
 plugin://plugin.video.tvone112/play/78/1431/play.pvr
 
-#EXTINF:-1 tvg-id="TBSEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/TBS.png" group-title="TV",TBS East
+#EXTINF:-1 tvg-id="TBSEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TBS_Network-logo.svg/512px-TBS_Network-logo.svg.png" group-title="TV",TBS East
 https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
 
 #EXTINF:-1 tvg-id="TBSWest.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TBS_Network-logo.svg/512px-TBS_Network-logo.svg.png" group-title="TV",TBS West
@@ -110,10 +110,10 @@ plugin://plugin.video.tvone112/play/78/1648/play.pvr
 #EXTINF:-1 tvg-id="HBO2East.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/HBO2.png" group-title="TV",HBO2
 http://livex.pop-app.live/s4n/poplive/ch529/playlist.m3u8
 
-#EXTINF:-1 tvg-id="HBOComedyEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/HBOSignature.png" group-title="TV",~~HBO Comedy
+#EXTINF:-1 tvg-id="HBOComedyEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/HBOComedyog.png" group-title="TV",~~HBO Comedy
 plugin://plugin.video.tvone112/play/78/1647/play.pvr
 
-#EXTINF:-1 tvg-id="HBOSignatureEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/kodi/master/icon/HBOComedyog.png" group-title="TV",~~HBO Signature
+#EXTINF:-1 tvg-id="HBOSignatureEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/HBOSignature.png" group-title="TV",~~HBO Signature
 plugin://plugin.video.tvone112/play/78/1649/play.pvr
 
 #EXTINF:-1 tvg-id="ShowtimeWest.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/512px-Showtime.svg.png" group-title="TV",~~Showtime West
