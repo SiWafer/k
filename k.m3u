@@ -111,8 +111,8 @@ plugin://plugin.video.tvone112/play/78/1648/play.pvr
 #EXTINF:-1 tvg-id="HBO2East.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/HBO2.png" group-title="Premium",HBO2
 http://livex.pop-app.live/s4n/poplive/ch529/playlist.m3u8
 
-#EXTINF:-1 tvg-id="HBOComedyEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/HBOComedyog.png" group-title="Premium",~~HBO Comedy
-plugin://plugin.video.tvone112/play/78/1647/play.pvr
+#EXTINF:-1 tvg-id="HBOComedyEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/HBOComedyog.png" group-title="Premium",HBO Comedy
+http://livex.pop-app.live/s4n/poplive/ch533/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HBOSignatureEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/HBOSignature.png" group-title="Premium",~~HBO Signature
 plugin://plugin.video.tvone112/play/78/1649/play.pvr
