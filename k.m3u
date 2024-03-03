@@ -43,26 +43,27 @@ http://livex.pop-app.live/s4n/poplive/ch308/playlist.m3u8
      #EXTINF:-1 tvg-id="FXMovieChannel.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/kodi/master/icon/FXM.png" group-title="TV",~~FXM
      #plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivehd.sx%2F%2Fstream%2Fstream-381.php
 
-     #EXTINF:-1 tvg-id="FXXEast.us" tvg-logo="https://www.nicepng.com/png/full/376-3768018_fxx-logo-fxx-logo-png-white.png" group-title="TV",~~FXX
-     #plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivehd.sx%2F%2Fstream%2Fstream-298.php
+#EXTINF:-1 tvg-id="FXXEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/FXX.png" group-title="TV",FXX
+http://livex.pop-app.live/s4n/poplive/ch523/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HallmarkChannelEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/HallmarkChannel.png" group-title="TV",Hallmark
+http://livex.pop-app.live/s4n/poplive/ch317/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HGTV.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/kodi/master/icon/HGTV.png" group-title="TV",HGTV
 http://livex.pop-app.live/s4n/poplive/ch323/playlist.m3u8
 
-#EXTINF:-1 tvg-id="HallmarkChannelEast.us" tvg-logo="https://www.pngkey.com/png/full/223-2230265_advertise-on-h-mark-channel-comcast-spotlight-advertising.png" group-title="TV",~~Hallmark
-plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivehd.sx%2F%2Fstream%2Fstream-320.php
+#EXTINF:-1 tvg-id="HistoryEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/History.png" group-title="TV",History
+http://livex.pop-app.live/s4n/poplive/ch215/playlist.m3u8
 
-#EXTINF:-1 tvg-id="HistoryEast.us" tvg-logo="https://www.pngkit.com/png/full/177-1779997_vikings-history-channel-logo-png-history-channel-logo.png" group-title="TV",~~History
-plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivehd.sx%2F%2Fstream%2Fstream-322.php
-
-#EXTINF:-1 tvg-id="IFCEast.us" tvg-logo="https://i.imgur.com/bQdkyF9.png" group-title="TV",~~IFC
-plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fd.daddylivehd.sx%2F%2Fstream%2Fstream-656.php
+#EXTINF:-1 tvg-id="IFCEast.us" tvg-logo="https://i.imgur.com/bQdkyF9.png" group-title="TV",IFC
+https://bcovlive-a.akamaihd.net/7304338dca7a4c91b8f0504de0342687/us-east-1/6240731308001/playlist.m3u8
 
 #EXTINF:-1 tvg-id="IONTVEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/kodi/master/icon/ION.png" group-title="TV",ION East
-https://d1mumb5jst6zw0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rqzc6u2smk8dg/ion.m3u8
+http://livex.pop-app.live/s4n/poplive/ch565/playlist.m3u8
+#https://lnc-ion.tubi.video/playlist.m3u8
 
 #EXTINF:-1 tvg-id="LifetimeEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/512px-Logo_Lifetime_2020.svg.png" group-title="TV",~~Lifetime
-plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivehd.sx%2F%2Fstream%2Fstream-326.php
+http://livex.pop-app.live/s4n/poplive/ch567/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MTVEast.us" tvg-logo="https://seeklogo.com/images/M/mtv-music-television-logo-B016199701-seeklogo.com.png" group-title="TV",~~MTV
 plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivehd.sx%2F%2Fstream%2Fstream-371.php
