@@ -65,31 +65,31 @@ http://livex.pop-app.live/s4n/poplive/ch565/playlist.m3u8
 #EXTINF:-1 tvg-id="LifetimeEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/Lifetime.png" group-title="TV",Lifetime
 http://livex.pop-app.live/s4n/poplive/ch567/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MTVEast.us" tvg-logo="https://seeklogo.com/images/M/mtv-music-television-logo-B016199701-seeklogo.com.png" group-title="TV",~~MTV
+#EXTINF:-1 tvg-id="MTVEast.us" tvg-logo="https://seeklogo.com/images/M/mtv-music-television-logo-B016199701-seeklogo.com.png" group-title="TV",MTV Canada
 plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivehd.sx%2F%2Fstream%2Fstream-371.php
 
-#EXTINF:-1 tvg-id="NationalGeographicEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/kodi/master/icon/NationalGeographic.png" group-title="TV",~~National Geographic
-plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivehd.sx%2F%2Fstream%2Fstream-328.php
+#EXTINF:-1 tvg-id="NationalGeographicEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/NationalGeographic.png" group-title="TV",National Geographic
+http://livex.pop-app.live/s4n/poplive/ch217/playlist.m3u8
 
-#EXTINF:-1 tvg-id="NationalGeographicWildEast.us" tvg-logo="https://www.seekpng.com/png/full/760-7606470_nat-geo-wild-nat-geo-wild-hd-logo.png" group-title="TV",~~Nat Geo Wild
-plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivehd.sx%2F%2Fstream%2Fstream-745.php
+            #EXTINF:-1 tvg-id="NationalGeographicWildEast.us" tvg-logo="https://www.seekpng.com/png/full/760-7606470_nat-geo-wild-nat-geo-wild-hd-logo.png" group-title="TV",~~Nat Geo Wild
+            #plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivehd.sx%2F%2Fstream%2Fstream-745.php
 
 #EXTINF:-1 tvg-id="ParamountNetworkEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/Paramount.png" group-title="TV",Paramount Network
 http://livex.pop-app.live/s4n/poplive/ch544/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SyfyEast.us" tvg-logo="https://www.pngkey.com/png/full/341-3418694_syfy-2017-vertical-logo-2-syfy-logo.png" group-title="TV",~~SYFY
-plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivehd.sx%2F%2Fstream%2Fstream-373.php
+#EXTINF:-1 tvg-id="SyfyEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/SYFY.png" group-title="TV",~~SYFY
+plugin://plugin.video.tvone112/play/78/1431/play.pvr
 
-#EXTINF:-1 tvg-id="TBSEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TBS_Network-logo.svg/512px-TBS_Network-logo.svg.png" group-title="TV",TBS East
+#EXTINF:-1 tvg-id="TBSEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/TBS.png" group-title="TV",TBS East
 https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
 
-#EXTINF:-1 tvg-id="TBSWest.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TBS_Network-logo.svg/512px-TBS_Network-logo.svg.png" group-title="TV",TBS West
+#EXTINF:-1 tvg-id="TBSWest.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/TBS.png" group-title="TV",TBS West
 https://turnerlive.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8
 
-#EXTINF:-1 tvg-id="TNTEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/kodi/master/icon/TNT.png" group-title="TV",TNT East
+#EXTINF:-1 tvg-id="TNTEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/TNT.png" group-title="TV",TNT East
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
 
-#EXTINF:-1 tvg-id="TNTWest.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/kodi/master/icon/TNT.png" group-title="TV",TNT West
+#EXTINF:-1 tvg-id="TNTWest.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/TNT.png" group-title="TV",TNT West
 https://turnerlive.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8
 
 #EXTINF:-1 tvg-id="TLCEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/512px-TLC_Logo.svg.png" group-title="TV",~~TLC
@@ -98,24 +98,29 @@ plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivehd.sx%
 #EXTINF:-1 tvg-id="USANetworkEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/usa.png" group-title="TV",USA Network
 http://livex.pop-app.live/s4n/poplive/ch341/playlist.m3u8
 
-#EXTINF:-1 tvg-id="VH1East.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/512px-VH1_logonew.svg.png" group-title="TV",~~VH1
-plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivehd.sx%2F%2Fstream%2Fstream-344.php
+#EXTINF:-1 tvg-id="VH1East.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/VH1.png" group-title="TV",VH1
+http://170.254.18.106/VH1/index.m3u8
 
-#EXTINF:-1 tvg-id="PBSEast.us" tvg-logo="https://i.imgur.com/vQ7F7zg.png" group-title="TV",PBS National East
+#EXTINF:-1 tvg-id="PBSWest.us" tvg-logo="https://i.imgur.com/vQ7F7zg.png" group-title="TV",PBS National
 https://pbs.lls.cdn.pbs.org/est/index.m3u8
 
-#EXTINF:-1 tvg-id="HBOEast.us" tvg-logo="https://www.nicepng.com/png/full/223-2235489_want-logo-hbo-white.png" group-title="TV",~~HBO
-plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivehd.sx%2F%2Fstream%2Fstream-321.php
-#EXTINF:-1 tvg-id="HBO2East.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/kodi/master/icon/HBO2.png" group-title="TV",~~HBO2
+#EXTINF:-1 tvg-id="HBO2East.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/HBO.png" group-title="TV",~~HBO
 plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivehd.sx%2F%2Fstream%2Fstream-689.php
+
+#EXTINF:-1 tvg-id="HBO2East.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/HBO2.png" group-title="TV",HBO2
+http://livex.pop-app.live/s4n/poplive/ch529/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HBOFamilyEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/HBOFamilyGreen.png" group-title="TV",HBO Family
+plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivehd.sx%2F%2Fstream%2Fstream-321.php
+
 #EXTINF:-1 tvg-id="HBOComedyEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/kodi/master/icon/HBOComedyog.png" group-title="TV",~~HBO Comedy
 plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivehd.sx%2F%2Fstream%2Fstream-690.php
+
 #EXTINF:-1 tvg-id="Showtime2East.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/512px-Showtime.svg.png" group-title="TV",~~Showtime
 plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivehd.sx%2F%2Fstream%2Fstream-333.php
 
 #EXTINF:-1 tvg-id="StarzCinemaEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/StarzCinemaWhite.png" group-title="TV",Starz Cinema
 http://livex.pop-app.live/s4n/poplive/ch503/playlist.m3u8
-
 
 
 #EXTINF:-1 ------------Sports/News---------------
