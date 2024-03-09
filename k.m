@@ -105,8 +105,8 @@ http://170.254.18.106/VH1/index.m3u8
 https://pbs.lls.cdn.pbs.org/est/index.m3u8
 
 #EXTINF:-1 ------------Premium Channels---------------
-         #EXTINF:-1 tvg-id="HBOEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/HBO.png" group-title="Premium",HBO
-         #plugin://plugin.video.tvone112/play/78/1648/play.pvr
+#EXTINF:-1 tvg-id="HBOEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/HBO.png" group-title="Premium",HBO
+http://livex.pop-app.live/s4n/poplive/ch314/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HBO2East.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/HBO2.png" group-title="Premium",HBO2
 http://livex.pop-app.live/s4n/poplive/ch529/playlist.m3u8
@@ -114,10 +114,10 @@ http://livex.pop-app.live/s4n/poplive/ch529/playlist.m3u8
 #EXTINF:-1 tvg-id="HBOComedyEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/HBOComedyog.png" group-title="Premium",HBO Comedy
 http://livex.pop-app.live/s4n/poplive/ch533/playlist.m3u8
 
-         #EXTINF:-1 tvg-id="HBOSignatureEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/HBOSignature.png" group-title="Premium",~~HBO Signature
-         #plugin://plugin.video.tvone112/play/78/1649/play.pvr
+#EXTINF:-1 tvg-id="HBOXtremeLatinAmerica.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/HBOSignature.png" group-title="Premium",HBO Xtreme
+plugin://plugin.video.tvone112/play/78/1649/play.pvr
 
-#EXTINF:-1 tvg-id="HBOSignatureEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/HBOzone.png" group-title="Premium",HBO Zone
+#EXTINF:-1 tvg-id="HBOZoneEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/HBOzone.png" group-title="Premium",HBO Zone
 http://livex.pop-app.live/s4n/poplive/ch531/playlist.m3u8
 
          #EXTINF:-1 tvg-id="ShowtimeWest.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/512px-Showtime.svg.png" group-title="Premium",~~Showtime West
@@ -143,8 +143,8 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_14
          #EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="Sports/News",~~Fox News
          #plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivehd.sx%2F%2Fstream%2Fstream-347.php
 
-         #EXTINF:-1 tvg-id="ESPN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png" group-title="Sports/News",ESPN
-         #http://livex.pop-app.live/s4n/poplive/ch314/playlist.m3u8
+#EXTINF:-1 tvg-id="ESPN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png" group-title="Sports/News",ESPN
+http://livex.pop-app.live/s4n/poplive/ch313/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NFLNetwork.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/NFLnetwork.png" group-title="Sports/News",NFL Network
 http://livex.pop-app.live/s4n/poplive/ch332/playlist.m3u8
