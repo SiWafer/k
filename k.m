@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://www.bevy.be/bevyfiles/unitedstates.xml"
+#EXTM3U x-tvg-url="https://www.bevy.be/bevyfiles/unitedstates.xml"  x-tvg-url="https://tvtv.us/"
 
 #EXTINF:-1 ------------TV---------------
 
