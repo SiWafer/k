@@ -114,7 +114,7 @@ http://livex.pop-app.live/s4n/poplive/ch529/playlist.m3u8
 #EXTINF:-1 tvg-id="HBOComedyEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/HBOComedyog.png" group-title="Premium",HBO Comedy
 http://livex.pop-app.live/s4n/poplive/ch533/playlist.m3u8
 
-#EXTINF:-1 tvg-id="HBOXtremeLatinAmerica.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/HBOSignature.png" group-title="Premium",HBO Xtreme
+#EXTINF:-1 tvg-id="HBOXtremeLatinAmerica.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/HBOXtremeWhite.png" group-title="Premium",HBO Xtreme
 plugin://plugin.video.tvone112/play/78/1649/play.pvr
 
          #EXTINF:-1 tvg-id="HBOZoneEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/HBOzone.png" group-title="Premium",HBO Zone
