@@ -114,7 +114,8 @@ https://pbs.lls.cdn.pbs.org/est/index.m3u8
 http://livex.pop-app.live/s4n/poplive/ch314/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HBO2East.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/HBO2.png" group-title="Premium",HBO2
-http://livex.pop-app.live/s4n/poplive/ch529/playlist.m3u8
+#http://livex.pop-app.live/s4n/poplive/ch529/playlist.m3u8
+http://170.254.18.106/HBO2/mono.m3u8
 
 #EXTINF:-1 tvg-id="HBOComedyEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/HBOComedyog.png" group-title="Premium",HBO Comedy
 http://livex.pop-app.live/s4n/poplive/ch533/playlist.m3u8
