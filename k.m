@@ -67,8 +67,9 @@ http://livex.pop-app.live/s4n/poplive/ch565/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Lifetime.ca" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/Lifetime.png" group-title="TV",Lifetime - Canada
 http://livex.pop-app.live/s4n/poplive/ch567/playlist.m3u8
-http://170.254.18.106/LIFETIME/index.m3u8
 
+#EXTINF:-1 tvg-id="Lifetime.ca" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/Lifetime.png" group-title="TV",Lifetime - NEW??
+http://170.254.18.106/LIFETIME/index.m3u8
 
          #EXTINF:-1 tvg-id="MTVEast.us" tvg-logo="https://seeklogo.com/images/M/mtv-music-television-logo-B016199701-seeklogo.com.png" group-title="TV",MTV (Canada)
          #plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivehd.sx%2F%2Fstream%2Fstream-371.php
