@@ -25,9 +25,9 @@ https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_us/st
 #EXTINF:-1 tvg-id="ComedyCentralEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/ComedyCentral.png" group-title="TV",Comedy Central
 http://170.254.18.106/COMEDY_CENTRAL/mono.m3u8
 
-#EXTINF:-1 tvg-id="DiscoveryChannelEast.us" tvg-logo="https://www.effectv.com/wp-content/uploads/2021/10/DSC_Logo_2019_Stack_BW-Reverse_RGB.png" group-title="TV",Discovery
-#http://livex.pop-app.live/s4n/poplive/ch212/playlist.m3u8
-http://170.254.18.106/DISCOVERY/mono.m3u8
+         #EXTINF:-1 tvg-id="DiscoveryChannelEast.us" tvg-logo="https://www.effectv.com/wp-content/uploads/2021/10/DSC_Logo_2019_Stack_BW-Reverse_RGB.png" group-title="TV",Discovery
+         #http://livex.pop-app.live/s4n/poplive/ch212/playlist.m3u8
+         #http://170.254.18.106/DISCOVERY/mono.m3u8
 
          #EXTINF:-1 tvg-id="DiscoveryFamily.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/DiscoveryFamily.png" group-title="TV",Discovery Family
          #http://livex.pop-app.live/s4n/poplive/ch526/playlist.m3u8
