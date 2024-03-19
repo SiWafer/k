@@ -7,13 +7,14 @@ plugin://plugin.video.tvone112/play/78/1401/play.pvr
 
 #EXTINF:-1 tvg-id="AMCEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/AMC.png" group-title="TV",AMC
 http://170.254.18.106/AMC/mono.m3u8
-# https://bcovlive-a.akamaihd.net/94e1185924514d0694019d24cfca7121/us-east-1/6240731308001/playlist.m3u8
+#https://bcovlive-a.akamaihd.net/94e1185924514d0694019d24cfca7121/us-east-1/6240731308001/playlist.m3u8
 
          #EXTINF:-1 tvg-id="AnimalPlanetEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/AnimalPlanet.png" group-title="TV",~~Animal Planet
          #plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivehd.sx%2F%2Fstream%2Fstream-304.php
 
 #EXTINF:-1 tvg-id="BBCAmericaEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/BBCAmerica.png" group-title="TV",BBC America
-https://bcovlive-a.akamaihd.net/cde8d9416f6d4f1da0a4e8cfde6e8b2c/us-east-1/6240731308001/playlist.m3u8
+#https://bcovlive-a.akamaihd.net/cde8d9416f6d4f1da0a4e8cfde6e8b2c/us-east-1/6240731308001/playlist.m3u8
+https://bcovlive-a.akamaihd.net/4e7f273ae0a04ad6b7d2e543df61e362/us-west-2/6240731308001/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BravoEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/BravoWhite.png" group-title="TV",Bravo TV
 http://170.254.18.106/BRAVO/index.m3u8
@@ -46,6 +47,7 @@ plugin://plugin.video.tvone112/play/78/2164/play.pvr
 #EXTINF:-1 tvg-id="FXXEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/FXX.png" group-title="TV",FXX
 http://livex.pop-app.live/s4n/poplive/ch523/playlist.m3u8
 
+
 #EXTINF:-1 tvg-id="HallmarkChannelEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/HallmarkChannel.png" group-title="TV",Hallmark
 http://livex.pop-app.live/s4n/poplive/ch317/playlist.m3u8
 
@@ -56,6 +58,7 @@ http://livex.pop-app.live/s4n/poplive/ch323/playlist.m3u8
 http://livex.pop-app.live/s4n/poplive/ch215/playlist.m3u8
 
 #EXTINF:-1 tvg-id="IFCEast.us" tvg-logo="https://i.imgur.com/bQdkyF9.png" group-title="TV",IFC
+#https://bcovlive-a.akamaihd.net/7304338dca7a4c91b8f0504de0342687/us-east-1/6240731308001/playlist.m3u8
 https://bcovlive-a.akamaihd.net/7304338dca7a4c91b8f0504de0342687/us-east-1/6240731308001/playlist.m3u8
 
 #EXTINF:-1 tvg-id="IONTVEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/ION.png" group-title="TV",ION East
@@ -64,6 +67,8 @@ http://livex.pop-app.live/s4n/poplive/ch565/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Lifetime.ca" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/Lifetime.png" group-title="TV",Lifetime - Canada
 http://livex.pop-app.live/s4n/poplive/ch567/playlist.m3u8
+http://170.254.18.106/LIFETIME/index.m3u8
+
 
          #EXTINF:-1 tvg-id="MTVEast.us" tvg-logo="https://seeklogo.com/images/M/mtv-music-television-logo-B016199701-seeklogo.com.png" group-title="TV",MTV (Canada)
          #plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivehd.sx%2F%2Fstream%2Fstream-371.php
