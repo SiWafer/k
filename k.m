@@ -12,8 +12,7 @@ http://170.254.18.106/AMC/mono.m3u8
          #EXTINF:-1 tvg-id="AnimalPlanetEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/AnimalPlanet.png" group-title="TV",~~Animal Planet
          #plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivehd.sx%2F%2Fstream%2Fstream-304.php
 
-#EXTINF:-1 tvg-id="BBCAmericaEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/BBCAmerica.png" group-title="TV",BBC America
-#https://bcovlive-a.akamaihd.net/cde8d9416f6d4f1da0a4e8cfde6e8b2c/us-east-1/6240731308001/playlist.m3u8
+#EXTINF:-1 tvg-id="BBCAmericaWest.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/BBCAmerica.png" group-title="TV",BBC America
 https://bcovlive-a.akamaihd.net/4e7f273ae0a04ad6b7d2e543df61e362/us-west-2/6240731308001/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BravoEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/BravoWhite.png" group-title="TV",Bravo TV
@@ -30,17 +29,20 @@ http://170.254.18.106/COMEDY_CENTRAL/mono.m3u8
 #http://livex.pop-app.live/s4n/poplive/ch212/playlist.m3u8
 http://170.254.18.106/DISCOVERY/mono.m3u8
 
-#EXTINF:-1 tvg-id="DiscoveryFamily.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/DiscoveryFamily.png" group-title="TV",Discovery Family
-http://livex.pop-app.live/s4n/poplive/ch526/playlist.m3u8
+         #EXTINF:-1 tvg-id="DiscoveryFamily.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/DiscoveryFamily.png" group-title="TV",Discovery Family
+         #http://livex.pop-app.live/s4n/poplive/ch526/playlist.m3u8
 
-#EXTINF:-1 tvg-id="EEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/E!.png" group-title="TV",E! Entertainment
-http://livex.pop-app.live/s4n/poplive/ch308/playlist.m3u8
+         #EXTINF:-1 tvg-id="EEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/E!.png" group-title="TV",E! Entertainment
+         #http://livex.pop-app.live/s4n/poplive/ch308/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FreeformEast.us" tvg-logo="https://i.imgur.com/BGAGeIf.png" group-title="TV",~~Freeform
 plugin://plugin.video.tvone112/play/78/1418/play.pvr
 
 #EXTINF:-1 tvg-id="FXEast.us" tvg-logo="https://www.seekpng.com/png/full/302-3027403_fx-logo-fx-logo-white-png.png" group-title="TV",~~FX
 plugin://plugin.video.tvone112/play/78/1419/play.pvr
+
+#EXTINF:-1 tvg-id="FX.mx" tvg-logo="https://www.seekpng.com/png/full/302-3027403_fx-logo-fx-logo-white-png.png" group-title="TV",FX Mexico
+http://170.254.18.106/FX/mono.m3u8
 
 #EXTINF:-1 tvg-id="FXMovieChannel.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/FXM.png" group-title="TV",~~FXM
 plugin://plugin.video.tvone112/play/78/2164/play.pvr
@@ -52,20 +54,20 @@ http://livex.pop-app.live/s4n/poplive/ch523/playlist.m3u8
 #http://livex.pop-app.live/s4n/poplive/ch317/playlist.m3u8
 http://170.254.18.106/HALLMARK/mono.m3u8
 
-#EXTINF:-1 tvg-id="HGTV.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/HGTV.png" group-title="TV",HGTV
-http://livex.pop-app.live/s4n/poplive/ch323/playlist.m3u8
+         #EXTINF:-1 tvg-id="HGTV.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/HGTV.png" group-title="TV",HGTV
+         #http://livex.pop-app.live/s4n/poplive/ch323/playlist.m3u8
 
-#EXTINF:-1 tvg-id="HistoryEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/History.png" group-title="TV",History
-#http://livex.pop-app.live/s4n/poplive/ch215/playlist.m3u8
-http://170.254.18.106/HISTORY/mono.m3u8
+         #EXTINF:-1 tvg-id="HistoryEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/History.png" group-title="TV",History
+         #http://livex.pop-app.live/s4n/poplive/ch215/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="IFCEast.us" tvg-logo="https://i.imgur.com/bQdkyF9.png" group-title="TV",IFC
 #https://bcovlive-a.akamaihd.net/7304338dca7a4c91b8f0504de0342687/us-east-1/6240731308001/playlist.m3u8
 https://bcovlive-a.akamaihd.net/7304338dca7a4c91b8f0504de0342687/us-east-1/6240731308001/playlist.m3u8
 
 #EXTINF:-1 tvg-id="IONTVEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/ION.png" group-title="TV",ION East
-http://livex.pop-app.live/s4n/poplive/ch565/playlist.m3u8
-#https://lnc-ion.tubi.video/playlist.m3u8
+#http://livex.pop-app.live/s4n/poplive/ch565/playlist.m3u8
+https://lnc-ion.tubi.video/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Lifetime.ca" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/Lifetime.png" group-title="TV",Lifetime - Canada
 http://livex.pop-app.live/s4n/poplive/ch567/playlist.m3u8
@@ -79,9 +81,9 @@ http://170.254.18.106/MAGNOLIA/mono.m3u8
 #EXTINF:-1 tvg-id="MTVEast.us" tvg-logo="https://seeklogo.com/images/M/mtv-music-television-logo-B016199701-seeklogo.com.png" group-title="TV",MTV (Canada)
 http://170.254.18.106/MTV/mono.m3u8
 
-#EXTINF:-1 tvg-id="NationalGeographicEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/NationalGeographic.png" group-title="TV",National Geographic
-#http://livex.pop-app.live/s4n/poplive/ch217/playlist.m3u8
-http://170.254.18.106/NAT_GEO/mono.m3u8
+         #EXTINF:-1 tvg-id="NationalGeographicEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/NationalGeographic.png" group-title="TV",National Geographic 
+         #http://livex.pop-app.live/s4n/poplive/ch217/playlist.m3u8
+
 
          #EXTINF:-1 tvg-id="NationalGeographicWildEast.us" tvg-logo="https://www.seekpng.com/png/full/760-7606470_nat-geo-wild-nat-geo-wild-hd-logo.png" group-title="TV",~~Nat Geo Wild
          #plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivehd.sx%2F%2Fstream%2Fstream-745.php
@@ -92,9 +94,6 @@ http://170.254.18.106/PARAMOUNT/mono.m3u8
 
 #EXTINF:-1 tvg-id="SyfyEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/SYFY.png" group-title="TV",~~SYFY
 plugin://plugin.video.tvone112/play/78/1431/play.pvr
-
-#EXTINF:-1 tvg-id="SyfyEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/SYFY.png" group-title="TV",SYFY
-http://170.254.18.106/SYFY/mono.m3u8
 
 #EXTINF:-1 tvg-id="TBSEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TBS_Network-logo.svg/512px-TBS_Network-logo.svg.png" group-title="TV",TBS East
 https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
@@ -110,8 +109,9 @@ https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_356
 #EXTINF:-1 tvg-id="TNTWest.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/TNT.png" group-title="TV",TNT West
 https://turnerlive.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8
 
-
 #EXTINF:-1 tvg-id="TLCEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/512px-TLC_Logo.svg.png" group-title="TV",~~TLC
+
+#EXTINF:-1 tvg-id="TLCEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/512px-TLC_Logo.svg.png" group-title="TV",TLC  Mexico
 http://170.254.18.106/TLC/mono.m3u8
 
 #EXTINF:-1 tvg-id="USANetworkEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/usa.png" group-title="TV",USA Network
