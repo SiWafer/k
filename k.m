@@ -38,11 +38,8 @@ http://170.254.18.106/COMEDY_CENTRAL/mono.m3u8
 #EXTINF:-1 tvg-id="FreeformEast.us" tvg-logo="https://i.imgur.com/BGAGeIf.png" group-title="TV",~~Freeform
 plugin://plugin.video.tvone112/play/78/1418/play.pvr
 
-#EXTINF:-1 tvg-id="FXEast.us" tvg-logo="https://www.seekpng.com/png/full/302-3027403_fx-logo-fx-logo-white-png.png" group-title="TV",~~FX
+#EXTINF:-1 tvg-id="FXEast.us" tvg-logo="https://www.seekpng.com/png/full/302-3027403_fx-logo-fx-logo-white-png.png" group-title="TV",~~FX 
 plugin://plugin.video.tvone112/play/78/1419/play.pvr
-
-#EXTINF:-1 tvg-id="FX.mx" tvg-logo="https://www.seekpng.com/png/full/302-3027403_fx-logo-fx-logo-white-png.png" group-title="TV",FX Mexico
-http://170.254.18.106/FX/mono.m3u8
 
 #EXTINF:-1 tvg-id="FXMovieChannel.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/FXM.png" group-title="TV",~~FXM
 plugin://plugin.video.tvone112/play/78/2164/play.pvr
