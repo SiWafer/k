@@ -44,8 +44,8 @@ plugin://plugin.video.tvone112/play/78/1419/play.pvr
 #EXTINF:-1 tvg-id="FXMovieChannel.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/FXM.png" group-title="TV",~~FXM
 plugin://plugin.video.tvone112/play/78/2164/play.pvr
 
-#EXTINF:-1 tvg-id="FXXEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/FXX.png" group-title="TV",FXX
-http://livex.pop-app.live/s4n/poplive/ch523/playlist.m3u8
+         #EXTINF:-1 tvg-id="FXXEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/FXX.png" group-title="TV",FXX
+         #http://livex.pop-app.live/s4n/poplive/ch523/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HallmarkChannelEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/HallmarkChannel.png" group-title="TV",Hallmark
 #http://livex.pop-app.live/s4n/poplive/ch317/playlist.m3u8
@@ -57,10 +57,8 @@ http://170.254.18.106/HALLMARK/mono.m3u8
          #EXTINF:-1 tvg-id="HistoryEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/History.png" group-title="TV",History
          #http://livex.pop-app.live/s4n/poplive/ch215/playlist.m3u8
 
-
-#EXTINF:-1 tvg-id="IFCEast.us" tvg-logo="https://i.imgur.com/bQdkyF9.png" group-title="TV",IFC
-#https://bcovlive-a.akamaihd.net/7304338dca7a4c91b8f0504de0342687/us-east-1/6240731308001/playlist.m3u8
-https://bcovlive-a.akamaihd.net/7304338dca7a4c91b8f0504de0342687/us-east-1/6240731308001/playlist.m3u8
+         #EXTINF:-1 tvg-id="IFCEast.us" tvg-logo="https://i.imgur.com/bQdkyF9.png" group-title="TV",IFC
+         #https://bcovlive-a.akamaihd.net/7304338dca7a4c91b8f0504de0342687/us-east-1/6240731308001/playlist.m3u8
 
 #EXTINF:-1 tvg-id="IONTVEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/ION.png" group-title="TV",ION East
 #http://livex.pop-app.live/s4n/poplive/ch565/playlist.m3u8
@@ -75,10 +73,8 @@ http://170.254.18.106/LIFETIME/index.m3u8
 #EXTINF:-1 tvg-id="MagnoliaNetworkEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/MagnoliaNetworkWhite.png" group-title="TV",Magnolia Network (DIY Network)
 http://170.254.18.106/MAGNOLIA/mono.m3u8
 
-
          #EXTINF:-1 tvg-id="NationalGeographicEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/NationalGeographic.png" group-title="TV",National Geographic 
          #http://livex.pop-app.live/s4n/poplive/ch217/playlist.m3u8
-
 
          #EXTINF:-1 tvg-id="NationalGeographicWildEast.us" tvg-logo="https://www.seekpng.com/png/full/760-7606470_nat-geo-wild-nat-geo-wild-hd-logo.png" group-title="TV",~~Nat Geo Wild
          #plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivehd.sx%2F%2Fstream%2Fstream-745.php
@@ -112,7 +108,7 @@ http://170.254.18.106/USA/mono.m3u8
 #EXTINF:-1 tvg-id="PBSWest.us" tvg-logo="https://i.imgur.com/vQ7F7zg.png" group-title="TV",PBS National
 https://pbs.lls.cdn.pbs.org/est/index.m3u8
 
-#-------------------- Music Channels -------------------
+#-------------------------------- Music Channels -------------------------------
 
 #EXTINF:-1 tvg-id="MTVEast.us" tvg-logo="https://seeklogo.com/images/M/mtv-music-television-logo-B016199701-seeklogo.com.png" group-title="TV",MTV
 http://170.254.18.106/MTV/mono.m3u8
@@ -120,7 +116,7 @@ http://170.254.18.106/MTV/mono.m3u8
 #EXTINF:-1 tvg-id="VH1East.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/VH1.png" group-title="TV",VH1
 http://170.254.18.106/VH1/index.m3u8
 
-#EXTINF:-1 ------------Premium Channels---------------
+#--------------------------------Premium Channels------------------------------
 #EXTINF:-1 tvg-id="CinemaxLatinAmerica.us" tvg-logo="" group-title="Premium",Cinemax Latin America
 http://170.254.18.106/CINEMAX/mono.m3u8
 
@@ -160,7 +156,7 @@ http://170.254.18.106/HBO_POP/mono.m3u8
          #plugin://plugin.video.tvone112/play/78/1660/play.pvr
 
 
-#EXTINF:-1 ------------Sports/News---------------
+#------------------------------------Sports/News--------------------------------------
 #EXTINF:-1 tvg-id="BloombergTV.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/Bloomberg.png" group-title="Sports/News",Bloomberg +
 https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
 
@@ -173,11 +169,11 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_14
          #EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="Sports/News",~~Fox News
          #plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivehd.sx%2F%2Fstream%2Fstream-347.php
 
-#EXTINF:-1 tvg-id="ESPN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png" group-title="Sports/News",ESPN
-http://livex.pop-app.live/s4n/poplive/ch313/playlist.m3u8
+         #EXTINF:-1 tvg-id="ESPN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png" group-title="Sports/News",ESPN
+         #http://livex.pop-app.live/s4n/poplive/ch313/playlist.m3u8
 
-#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/NFLnetwork.png" group-title="Sports/News",NFL Network
-http://livex.pop-app.live/s4n/poplive/ch332/playlist.m3u8
+         #EXTINF:-1 tvg-id="NFLNetwork.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/NFLnetwork.png" group-title="Sports/News",NFL Network
+         #http://livex.pop-app.live/s4n/poplive/ch332/playlist.m3u8
 
          #EXTINF:-1 tvg-id="ESPNU.us" tvg-logo="https://i.imgur.com/HiBrysh.png" group-title="Sports/News",~~ESPNU
          #plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivehd.sx%2F%2Fstream%2Fstream-316.php
@@ -188,7 +184,6 @@ https://twcprod-live.twc-tv.com/v1/manifest/b4d4d63a49309cc5140171fb2e92485c31be
 #EXTINF:-1 ------------Cooking / Home ---------------
 
 #EXTINF:-1 tvg-id="FoodNetworkEast.us" tvg-logo="https://i.imgur.com/ljYzkQT.png" group-title="Cooking/Home",Food Network
-#http://livex.pop-app.live/s4n/poplive/ch211/playlist.m3u8
 http://170.254.18.106/FOOD/mono.m3u8
 #EXTINF:-1 tvg-id="bonappetit.us" tvg-logo="https://i.imgur.com/YhFFxlE.png" group-title="Cooking/Home",bon appétit
 https://bonappetit-samsung.amagi.tv/playlist.m3u8
