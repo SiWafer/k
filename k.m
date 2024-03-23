@@ -64,11 +64,11 @@ http://170.254.18.106/HALLMARK/mono.m3u8
 #http://livex.pop-app.live/s4n/poplive/ch565/playlist.m3u8
 https://lnc-ion.tubi.video/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Lifetime.ca" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/Lifetime.png" group-title="TV",Lifetime - Canada
-http://livex.pop-app.live/s4n/poplive/ch567/playlist.m3u8
+         #EXTINF:-1 tvg-id="Lifetime.ca" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/Lifetime.png" group-title="TV",Lifetime - Canada
+         #http://livex.pop-app.live/s4n/poplive/ch567/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Lifetime.ca" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/Lifetime.png" group-title="TV",Lifetime - NEW
-http://170.254.18.106/LIFETIME/index.m3u8
+         #EXTINF:-1 tvg-id="Lifetime.ca" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/Lifetime.png" group-title="TV",Lifetime - Latin America
+         #http://170.254.18.106/LIFETIME/index.m3u8
 
 #EXTINF:-1 tvg-id="MagnoliaNetworkEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/MagnoliaNetworkWhite.png" group-title="TV",Magnolia Network (DIY Network)
 http://170.254.18.106/MAGNOLIA/mono.m3u8
@@ -120,13 +120,13 @@ http://170.254.18.106/VH1/index.m3u8
 #EXTINF:-1 tvg-id="CinemaxLatinAmerica.us" tvg-logo="" group-title="Premium",Cinemax Latin America
 http://170.254.18.106/CINEMAX/mono.m3u8
 
-#EXTINF:-1 tvg-id="CinemaxEast.us" tvg-logo="" group-title="Premium",Cinemax East
-#http://31.220.41.88:8081/live/us-cinemax.stream/playlist.m3u8
+         #EXTINF:-1 tvg-id="CinemaxEast.us" tvg-logo="" group-title="Premium",Cinemax East
+         #http://31.220.41.88:8081/live/us-cinemax.stream/playlist.m3u8
 
          #EXTINF:-1 tvg-id="HBOEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/HBO.png" group-title="Premium",HBO
          #http://livex.pop-app.live/s4n/poplive/ch314/playlist.m3u8
 
-#EXTINF:-1 tvg-id="HBO2East.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/HBO2.png" group-title="Premium",HBO2
+#EXTINF:-1 tvg-id="HBO2East.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/HBO2.png" group-title="Premium",HBO2 Latin America
 #http://livex.pop-app.live/s4n/poplive/ch529/playlist.m3u8
 http://170.254.18.106/HBO2/mono.m3u8
 
