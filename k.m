@@ -21,6 +21,8 @@ https://bcovlive-a.akamaihd.net/4e7f273ae0a04ad6b7d2e543df61e362/us-west-2/62407
 http://170.254.18.106/BRAVO/index.m3u8
 #http://livex.pop-app.live/s4n/poplive/ch316/playlist.m3u8
 #plugin://plugin.video.tvone112/play/78/1406/play.pvr
+#plugin://plugin.video.tvone112/play/78/2691/play.pvr
+
 
 #EXTINF:-1 tvg-id="CartoonNetworkEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/CartoonNetwork2.png" group-title="TV",Cartoon Network aka SWIM
 https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_us/streams/us/AdultSwimEast.us.m3u8
@@ -48,6 +50,8 @@ plugin://plugin.video.tvone112/play/78/1419/play.pvr
 
 #EXTINF:-1 tvg-id="FXMovieChannel.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/FXM.png" group-title="TV",~~~FXM
 plugin://plugin.video.tvone112/play/78/2164/play.pvr
+
+
 
          #EXTINF:-1 tvg-id="FXXEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/FXX.png" group-title="TV",FXX
          #http://livex.pop-app.live/s4n/poplive/ch523/playlist.m3u8
@@ -91,7 +95,7 @@ http://170.254.18.106/MAGNOLIA/mono.m3u8
 #http://livex.pop-app.live/s4n/poplive/ch544/playlist.m3u8
 http://170.254.18.106/PARAMOUNT/mono.m3u8
 
-#EXTINF:-1 tvg-id="SyfyEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/SYFY.png" group-title="TV",~~SYFY
+#EXTINF:-1 tvg-id="SyfyEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/SYFY.png" group-title="TV",~~~SYFY
 plugin://plugin.video.tvone112/play/78/1431/play.pvr
 
 #EXTINF:-1 tvg-id="TBSEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TBS_Network-logo.svg/512px-TBS_Network-logo.svg.png" group-title="TV",TBS East
@@ -104,14 +108,18 @@ https://turnerlive.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_356
 #EXTINF:-1 tvg-id="TNTEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/TNT.png" group-title="TV",TNT East
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
 #http://170.254.18.106/TNT/mono.m3u8
+#plugin://plugin.video.tvone112/play/78/1434/play.pvr
+
 
 #EXTINF:-1 tvg-id="TNTWest.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/TNT.png" group-title="TV",TNT West
 https://turnerlive.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8
 
-         #EXTINF:-1 tvg-id="TLCEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/512px-TLC_Logo.svg.png" group-title="TV",~~TLC
+#EXTINF:-1 tvg-id="TLCEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/512px-TLC_Logo.svg.png" group-title="TV",~~~TLC
+plugin://plugin.video.tvone112/play/78/1433/play.pvr
 
 #EXTINF:-1 tvg-id="USANetworkEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/usa.png" group-title="TV",USA Network
 http://170.254.18.106/USA/mono.m3u8
+#plugin://plugin.video.tvone112/play/78/1436/play.pvr
 
 #EXTINF:-1 tvg-id="PBSWest.us" tvg-logo="https://i.imgur.com/vQ7F7zg.png" group-title="TV",PBS National
 https://pbs.lls.cdn.pbs.org/est/index.m3u8
@@ -120,6 +128,8 @@ https://pbs.lls.cdn.pbs.org/est/index.m3u8
 
 #EXTINF:-1 tvg-id="MTVEast.us" tvg-logo="https://seeklogo.com/images/M/mtv-music-television-logo-B016199701-seeklogo.com.png" group-title="TV",MTV
 http://170.254.18.106/MTV/mono.m3u8
+#plugin://plugin.video.tvone112/play/78/2158/play.pvr
+
 
 #EXTINF:-1 tvg-id="VH1East.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/VH1.png" group-title="TV",VH1
 http://170.254.18.106/VH1/index.m3u8
@@ -154,16 +164,19 @@ http://170.254.18.106/HBO_POP/mono.m3u8
          #EXTINF:-1 tvg-id="HBOZoneEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/HBOzone.png" group-title="Premium",HBO Zone
          #http://livex.pop-app.live/s4n/poplive/ch531/playlist.m3u8
 
-EXTINF:-1 tvg-id="ShowtimeWest.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/512px-Showtime.svg.png" group-title="Premium",~~~Showtime
+#EXTINF:-1 tvg-id="ShowtimeWest.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/512px-Showtime.svg.png" group-title="Premium",~~~Showtime West
 #plugin://plugin.video.tvone112/play/78/1657/play.pvr
 plugin://plugin.video.tvone112/play/78/1428/play.pvr
 
+#EXTINF:-1 tvg-id="StarzCinemaEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/StarzCinemaWhite.png" group-title="Premium",~~~Starz
+plugin://plugin.video.tvone112/play/78/1430/play.pvr
 
-         #EXTINF:-1 tvg-id="StarzCinemaEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/StarzCinemaWhite.png" group-title="Premium",Starz Cinema
-         #http://livex.pop-app.live/s4n/poplive/ch503/playlist.m3u8
+#EXTINF:-1 tvg-id="StarzCinemaEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/StarzCinemaWhite.png" group-title="Premium",~~~Starz Cinima
+plugin://plugin.video.tvone112/play/78/1659/play.pvr
 
-         #EXTINF:-1 tvg-id="StarzEncoreEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/StarzEncore.png" group-title="Premium",~~Starz Encore
-         #plugin://plugin.video.tvone112/play/78/1660/play.pvr
+#EXTINF:-1 tvg-id="StarzEncoreEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/StarzEncore.png" group-title="Premium",~~~Starz Encore
+plugin://plugin.video.tvone112/play/78/1660/play.pvr
+
 
 
 #------------------------------------Sports/News--------------------------------------
