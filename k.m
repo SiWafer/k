@@ -11,8 +11,7 @@ http://170.254.18.106/AMC/mono.m3u8
 #https://bcovlive-a.akamaihd.net/94e1185924514d0694019d24cfca7121/us-east-1/6240731308001/playlist.m3u8
 
          #EXTINF:-1 tvg-id="AnimalPlanetEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/AnimalPlanet.png" group-title="TV",~~Animal Planet
-         #plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivehd.sx%2F%2Fstream%2Fstream-304.php
-
+         
 #EXTINF:-1 tvg-id="BBCAmericaWest.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/BBCAmerica.png" group-title="TV",BBC America
 https://bcovlive-a.akamaihd.net/4e7f273ae0a04ad6b7d2e543df61e362/us-west-2/6240731308001/playlist.m3u8
 #plugin://plugin.video.tvone112/play/78/1404/play.pvr
@@ -22,7 +21,6 @@ http://170.254.18.106/BRAVO/index.m3u8
 #http://livex.pop-app.live/s4n/poplive/ch316/playlist.m3u8
 #plugin://plugin.video.tvone112/play/78/1406/play.pvr
 #plugin://plugin.video.tvone112/play/78/2691/play.pvr
-
 
 #EXTINF:-1 tvg-id="CartoonNetworkEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/CartoonNetwork2.png" group-title="TV",Cartoon Network aka SWIM
 https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_us/streams/us/AdultSwimEast.us.m3u8
@@ -38,7 +36,7 @@ http://170.254.18.106/COMEDY_CENTRAL/mono.m3u8
          #EXTINF:-1 tvg-id="DiscoveryFamily.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/DiscoveryFamily.png" group-title="TV",Discovery Family
          #http://livex.pop-app.live/s4n/poplive/ch526/playlist.m3u8
 
-EXTINF:-1 tvg-id="EEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/E!.png" group-title="TV",~~~E! Entertainment
+#EXTINF:-1 tvg-id="EEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/E!.png" group-title="TV",~~~E! Entertainment
 #http://livex.pop-app.live/s4n/poplive/ch308/playlist.m3u8    
 plugin://plugin.video.tvone112/play/78/1413/play.pvr
 
@@ -60,7 +58,7 @@ plugin://plugin.video.tvone112/play/78/2164/play.pvr
 #http://livex.pop-app.live/s4n/poplive/ch317/playlist.m3u8
 http://170.254.18.106/HALLMARK/mono.m3u8
 
-EXTINF:-1 tvg-id="HGTV.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/HGTV.png" group-title="TV",~~~HGTV
+#EXTINF:-1 tvg-id="HGTV.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/HGTV.png" group-title="TV",~~~HGTV
 #http://livex.pop-app.live/s4n/poplive/ch323/playlist.m3u8
 plugin://plugin.video.tvone112/play/78/1422/play.pvr
 
@@ -78,7 +76,7 @@ https://lnc-ion.tubi.video/playlist.m3u8
          #EXTINF:-1 tvg-id="Lifetime.ca" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/Lifetime.png" group-title="TV",Lifetime - Canada
          #http://livex.pop-app.live/s4n/poplive/ch567/playlist.m3u8
 
-EXTINF:-1 tvg-id="Lifetime.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/Lifetime.png" group-title="TV",~~~Lifetime
+#EXTINF:-1 tvg-id="Lifetime.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/Lifetime.png" group-title="TV",~~~Lifetime
 #http://170.254.18.106/LIFETIME/index.m3u8
          
 
