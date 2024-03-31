@@ -36,11 +36,9 @@ http://170.254.18.106/COMEDY_CENTRAL/mono.m3u8
          #EXTINF:-1 tvg-id="DiscoveryFamily.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/DiscoveryFamily.png" group-title="TV",Discovery Family
          #http://livex.pop-app.live/s4n/poplive/ch526/playlist.m3u8
 
-#EXTINF:-1 tvg-id="EEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/E!.png" group-title="TV",~~~E! Entertainment
-#http://livex.pop-app.live/s4n/poplive/ch308/playlist.m3u8    
-plugin://plugin.video.tvone112/play/78/1413/play.pvr
+         #EXTINF:-1 tvg-id="EEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/E!.png" group-title="TV",~~~E! Entertainment
 
-#EXTINF:-1 tvg-id="FreeformEast.us" tvg-logo="https://i.imgur.com/BGAGeIf.png" group-title="TV",~~Freeform
+#EXTINF:-1 tvg-id="FreeformEast.us" tvg-logo="https://i.imgur.com/BGAGeIf.png" group-title="TV",~~~Freeform
 plugin://plugin.video.tvone112/play/78/1418/play.pvr
 
 #EXTINF:-1 tvg-id="FXEast.us" tvg-logo="https://www.seekpng.com/png/full/302-3027403_fx-logo-fx-logo-white-png.png" group-title="TV",~~~FX 
@@ -48,8 +46,6 @@ plugin://plugin.video.tvone112/play/78/1419/play.pvr
 
 #EXTINF:-1 tvg-id="FXMovieChannel.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/FXM.png" group-title="TV",~~~FXM
 plugin://plugin.video.tvone112/play/78/2164/play.pvr
-
-
 
          #EXTINF:-1 tvg-id="FXXEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/FXX.png" group-title="TV",FXX
          #http://livex.pop-app.live/s4n/poplive/ch523/playlist.m3u8
@@ -105,12 +101,15 @@ https://turnerlive.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_356
 
 #EXTINF:-1 tvg-id="TNTEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/TNT.png" group-title="TV",TNT East
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
-#http://170.254.18.106/TNT/mono.m3u8
-#plugin://plugin.video.tvone112/play/78/1434/play.pvr
-
 
 #EXTINF:-1 tvg-id="TNTWest.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/TNT.png" group-title="TV",TNT West
 https://turnerlive.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 tvg-id="truTVEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/trutv.png" group-title="TV",truTV East
+https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 tvg-id="truTVWest.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/trutv.png" group-title="TV",truTV West
+https://turnerlive.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_0_3564000.m3u8
 
 #EXTINF:-1 tvg-id="TLCEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/512px-TLC_Logo.svg.png" group-title="TV",~~~TLC
 plugin://plugin.video.tvone112/play/78/1433/play.pvr
