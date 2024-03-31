@@ -18,7 +18,6 @@ https://bcovlive-a.akamaihd.net/4e7f273ae0a04ad6b7d2e543df61e362/us-west-2/62407
 
 #EXTINF:-1 tvg-id="BravoEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/BravoWhite.png" group-title="TV",Bravo TV
 http://170.254.18.106/BRAVO/index.m3u8
-#http://livex.pop-app.live/s4n/poplive/ch316/playlist.m3u8
 #plugin://plugin.video.tvone112/play/78/1406/play.pvr
 #plugin://plugin.video.tvone112/play/78/2691/play.pvr
 
@@ -54,11 +53,6 @@ plugin://plugin.video.tvone112/play/78/2164/play.pvr
 #http://livex.pop-app.live/s4n/poplive/ch317/playlist.m3u8
 http://170.254.18.106/HALLMARK/mono.m3u8
 
-#EXTINF:-1 tvg-id="HGTV.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/HGTV.png" group-title="TV",~~~HGTV
-#http://livex.pop-app.live/s4n/poplive/ch323/playlist.m3u8
-plugin://plugin.video.tvone112/play/78/1422/play.pvr
-
-
          #EXTINF:-1 tvg-id="HistoryEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/History.png" group-title="TV",History
          #http://livex.pop-app.live/s4n/poplive/ch215/playlist.m3u8
 
@@ -72,13 +66,8 @@ https://lnc-ion.tubi.video/playlist.m3u8
          #EXTINF:-1 tvg-id="Lifetime.ca" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/Lifetime.png" group-title="TV",Lifetime - Canada
          #http://livex.pop-app.live/s4n/poplive/ch567/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Lifetime.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/Lifetime.png" group-title="TV",~~~Lifetime
-#http://170.254.18.106/LIFETIME/index.m3u8
+         #EXTINF:-1 tvg-id="Lifetime.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/Lifetime.png" group-title="TV",~~~Lifetime
          
-
-#EXTINF:-1 tvg-id="MagnoliaNetworkEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/MagnoliaNetworkWhite.png" group-title="TV",Magnolia Network (DIY Network)
-http://170.254.18.106/MAGNOLIA/mono.m3u8
-
          #EXTINF:-1 tvg-id="NationalGeographicEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/NationalGeographic.png" group-title="TV",National Geographic 
          #http://livex.pop-app.live/s4n/poplive/ch217/playlist.m3u8
 
@@ -122,11 +111,15 @@ http://170.254.18.106/USA/mono.m3u8
 https://pbs.lls.cdn.pbs.org/est/index.m3u8
 
 #-------------------------------- Music Channels -------------------------------
+#EXTINF:-1 tvg-id="HGTV.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/HGTV.png" group-title="TV",~~~HGTV
+plugin://plugin.video.tvone112/play/78/1422/play.pvr
+
+#EXTINF:-1 tvg-id="MagnoliaNetworkEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/MagnoliaNetworkWhite.png" group-title="TV",Magnolia Network (DIY Network)
+http://170.254.18.106/MAGNOLIA/mono.m3u8
 
 #EXTINF:-1 tvg-id="MTVEast.us" tvg-logo="https://seeklogo.com/images/M/mtv-music-television-logo-B016199701-seeklogo.com.png" group-title="TV",MTV
 http://170.254.18.106/MTV/mono.m3u8
 #plugin://plugin.video.tvone112/play/78/2158/play.pvr
-
 
 #EXTINF:-1 tvg-id="VH1East.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/VH1.png" group-title="TV",VH1
 http://170.254.18.106/VH1/index.m3u8
@@ -136,44 +129,40 @@ http://170.254.18.106/VH1/index.m3u8
 http://170.254.18.106/CINEMAX/mono.m3u8
 
          #EXTINF:-1 tvg-id="CinemaxEast.us" tvg-logo="" group-title="Premium",Cinemax East
-         #http://31.220.41.88:8081/live/us-cinemax.stream/playlist.m3u8
 
          #EXTINF:-1 tvg-id="HBOEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/HBO.png" group-title="Premium",HBO
-         #http://livex.pop-app.live/s4n/poplive/ch314/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HBO2East.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/HBO2.png" group-title="Premium",HBO2 Latin America
-#http://livex.pop-app.live/s4n/poplive/ch529/playlist.m3u8
 http://170.254.18.106/HBO2/mono.m3u8
 
          #EXTINF:-1 tvg-id="HBOComedyEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/HBOComedyog.png" group-title="Premium",HBO Comedy
-         #http://livex.pop-app.live/s4n/poplive/ch533/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HBOFamilyEast.us" tvg-logo="" group-title="Premium",HBO Family
 http://170.254.18.106/HBO_FAMILY/mono.m3u8
 
-#EXTINF:-1 tvg-id="HBOXtremeLatinAmerica.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/HBOXtremeWhite.png" group-title="Premium",HBO Xtreme
+#EXTINF:-1 tvg-id="HBOSignatureEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/HBOXtremeWhite.png" group-title="Premium",~~~HBO Signature
 plugin://plugin.video.tvone112/play/78/1649/play.pvr
 
-#EXTINF:-1 tvg-id="HBOPopLatinAmerica.us" tvg-logo="" group-title="Premium",HBO Pop Latin America
+#EXTINF:-1 tvg-id="HBOPopLatinAmerica.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/HboPop.png" group-title="Premium",HBO Pop Latin America
 http://170.254.18.106/HBO_POP/mono.m3u8
-#http://170.254.18.106/HBO_XTREME/mono.m3u8
+
+#EXTINF:-1 tvg-id="HBOXtremeLatinAmerica.uss" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/HBOXtremeWhite.png" group-title="Premium",HBO Xtreme Latin America
+http://170.254.18.106/HBO_XTREME/mono.m3u8
 
          #EXTINF:-1 tvg-id="HBOZoneEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/HBOzone.png" group-title="Premium",HBO Zone
-         #http://livex.pop-app.live/s4n/poplive/ch531/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ShowtimeWest.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/512px-Showtime.svg.png" group-title="Premium",~~~Showtime West
 #plugin://plugin.video.tvone112/play/78/1657/play.pvr
 plugin://plugin.video.tvone112/play/78/1428/play.pvr
 
-#EXTINF:-1 tvg-id="StarzCinemaEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/StarzCinemaWhite.png" group-title="Premium",~~~Starz
-plugin://plugin.video.tvone112/play/78/1430/play.pvr
-
-#EXTINF:-1 tvg-id="StarzCinemaEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/StarzCinemaWhite.png" group-title="Premium",~~~Starz Cinima
-plugin://plugin.video.tvone112/play/78/1659/play.pvr
-
-#EXTINF:-1 tvg-id="StarzEncoreEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/StarzEncore.png" group-title="Premium",~~~Starz Encore
+#EXTINF:-1 tvg-id="StarzEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/starz.png" group-title="Premium",~~~Starz
 plugin://plugin.video.tvone112/play/78/1660/play.pvr
 
+         #EXTINF:-1 tvg-id="StarzCinemaEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/StarzCinemaWhite.png" group-title="Premium",~~~Starz Cinema
+         #plugin://plugin.video.tvone112/play/78/1659/play.pvr
+
+         #EXTINF:-1 tvg-id="StarzEncoreEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/StarzEncore.png" group-title="Premium",~~~Starz Encore
+         #plugin://plugin.video.tvone112/play/78/1660/play.pvr
 
 
 #------------------------------------Sports/News--------------------------------------
