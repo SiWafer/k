@@ -130,14 +130,10 @@ http://170.254.18.106/CINEMAX/mono.m3u8
 
          #EXTINF:-1 tvg-id="CinemaxEast.us" tvg-logo="" group-title="Premium",Cinemax East
 
-         #EXTINF:-1 tvg-id="HBOEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/HBO.png" group-title="Premium",HBO
-
-#EXTINF:-1 tvg-id="HBO2East.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/HBO2.png" group-title="Premium",HBO2 Latin America
+#EXTINF:-1 tvg-id="HBO2LatinAmerica.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/HBO2.png" group-title="Premium",HBO 2 Latin America
 http://170.254.18.106/HBO2/mono.m3u8
 
-         #EXTINF:-1 tvg-id="HBOComedyEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/HBOComedyog.png" group-title="Premium",HBO Comedy
-
-#EXTINF:-1 tvg-id="HBOFamilyEast.us" tvg-logo="" group-title="Premium",HBO Family
+#EXTINF:-1 tvg-id="HBOFamilyLatinAmerica.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/HBOFamilyGreen.png" group-title="Premium",HBO Family Latin America
 http://170.254.18.106/HBO_FAMILY/mono.m3u8
 
 #EXTINF:-1 tvg-id="HBOSignatureEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/HBOXtremeWhite.png" group-title="Premium",~~~HBO Signature
@@ -149,14 +145,17 @@ http://170.254.18.106/HBO_POP/mono.m3u8
 #EXTINF:-1 tvg-id="HBOXtremeLatinAmerica.uss" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/HBOXtremeWhite.png" group-title="Premium",HBO Xtreme Latin America
 http://170.254.18.106/HBO_XTREME/mono.m3u8
 
+         #EXTINF:-1 tvg-id="HBO2East.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/HBO2.png" group-title="Premium",HBO 2
+         #EXTINF:-1 tvg-id="HBOEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/HBO.png" group-title="Premium",HBO
+         #EXTINF:-1 tvg-id="HBOComedyEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/HBOComedyog.png" group-title="Premium",HBO Comedy
+         #EXTINF:-1 tvg-id="HBOFamilyEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/HBOFamilyOrange.png" group-title="Premium",HBO Family
          #EXTINF:-1 tvg-id="HBOZoneEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/HBOzone.png" group-title="Premium",HBO Zone
 
 #EXTINF:-1 tvg-id="ShowtimeWest.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/512px-Showtime.svg.png" group-title="Premium",~~~Showtime West
-#plugin://plugin.video.tvone112/play/78/1657/play.pvr
 plugin://plugin.video.tvone112/play/78/1428/play.pvr
 
-#EXTINF:-1 tvg-id="StarzEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/starz.png" group-title="Premium",~~~Starz
-plugin://plugin.video.tvone112/play/78/1660/play.pvr
+         #EXTINF:-1 tvg-id="StarzEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/starz.png" group-title="Premium",~~~Starz
+         #plugin://plugin.video.tvone112/play/78/1660/play.pvr
 
          #EXTINF:-1 tvg-id="StarzCinemaEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/StarzCinemaWhite.png" group-title="Premium",~~~Starz Cinema
          #plugin://plugin.video.tvone112/play/78/1659/play.pvr
