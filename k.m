@@ -94,11 +94,10 @@ https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_356
 #EXTINF:-1 tvg-id="TNTWest.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/TNT.png" group-title="TV",TNT West
 https://turnerlive.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8
 
-#EXTINF:-1 tvg-id="truTVEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/trutv.png" group-title="TV",truTV East
-https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
-
-#EXTINF:-1 tvg-id="truTVWest.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/trutv.png" group-title="TV",truTV West
-https://turnerlive.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_0_3564000.m3u8
+         #EXTINF:-1 tvg-id="truTVEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/trutv.png" group-title="TV",truTV East
+         #https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
+         #EXTINF:-1 tvg-id="truTVWest.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/trutv.png" group-title="TV",truTV West
+         #https://turnerlive.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_0_3564000.m3u8
 
 #EXTINF:-1 tvg-id="TLCEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/512px-TLC_Logo.svg.png" group-title="TV",~~~TLC
 plugin://plugin.video.tvone112/play/78/1433/play.pvr
