@@ -5,10 +5,9 @@
 #EXTINF:-1 tvg-id="AEEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/AnE.png" group-title="TV",~~~A&E
 plugin://plugin.video.tvone112/play/78/1401/play.pvr
 
-#EXTINF:-1 tvg-id="AMCEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/AMC.png" group-title="TV",AMC
-#http://170.254.18.106/AMC/mono.m3u8
-#plugin://plugin.video.tvone112/play/78/1403/play.pvr
-https://bcovlive-a.akamaihd.net/94e1185924514d0694019d24cfca7121/us-east-1/6240731308001/playlist.m3u8
+#EXTINF:-1 tvg-id="AMCEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/AMC.png" group-title="TV",~~~AMC
+plugin://plugin.video.tvone112/play/78/1403/play.pvr
+
 
          #EXTINF:-1 tvg-id="AnimalPlanetEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/AnimalPlanet.png" group-title="TV",~~Animal Planet
          
