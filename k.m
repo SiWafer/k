@@ -2,11 +2,11 @@
 
 #EXTINF:-1 ------------TV---------------
 
-#EXTINF:-1 tvg-id="AEEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/AnE.png" group-title="TV",~~~A&E
-plugin://plugin.video.tvone112/play/78/1401/play.pvr
+         #EXTINF:-1 tvg-id="AEEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/AnE.png" group-title="TV",~~~A&E
+         #plugin://plugin.video.tvone112/play/78/1401/play.pvr
 
-#EXTINF:-1 tvg-id="AMCEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/AMC.png" group-title="TV",~~~AMC
-plugin://plugin.video.tvone112/play/78/1403/play.pvr
+         #EXTINF:-1 tvg-id="AMCEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/AMC.png" group-title="TV",~~~AMC
+         #plugin://plugin.video.tvone112/play/78/1403/play.pvr
 
          #EXTINF:-1 tvg-id="AnimalPlanetEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/AnimalPlanet.png" group-title="TV",~~Animal Planet
          
@@ -15,10 +15,8 @@ https://bcovlive-a.akamaihd.net/4e7f273ae0a04ad6b7d2e543df61e362/us-west-2/62407
 #http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
 #plugin://plugin.video.tvone112/play/78/1404/play.pvr
 
-#EXTINF:-1 tvg-id="BravoEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/BravoWhite.png" group-title="TV",~~~Bravo TV
-#http://170.254.18.106/BRAVO/index.m3u8
-plugin://plugin.video.tvone112/play/78/1406/play.pvr
-#plugin://plugin.video.tvone112/play/78/2691/play.pvr
+         #EXTINF:-1 tvg-id="BravoEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/BravoWhite.png" group-title="TV",~~~Bravo TV
+         #plugin://plugin.video.tvone112/play/78/2691/play.pvr
 
 #EXTINF:-1 tvg-id="CartoonNetworkEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/CartoonNetwork2.png" group-title="TV",Cartoon Network aka SWIM
 https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_us/streams/us/AdultSwimEast.us.m3u8
@@ -64,6 +62,9 @@ https://lnc-ion.tubi.video/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Lifetime.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/Lifetime.png" group-title="TV",Lifetime
 http://fl2.moveonjoy.com/LIFETIME/index.m3u8
+
+#EXTINF:-1 tvg-id="LifetimeMoviesEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/Lifetime.png" group-title="TV",Lifetime Movie Network
+http://fl2.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
 
          #EXTINF:-1 tvg-id="NationalGeographicEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/NationalGeographic.png" group-title="TV",National Geographic 
          #http://livex.pop-app.live/s4n/poplive/ch217/playlist.m3u8
