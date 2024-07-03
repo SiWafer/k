@@ -8,6 +8,8 @@
          #EXTINF:-1 tvg-id="AMCEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/AMC.png" group-title="TV",~~~AMC
          #plugin://plugin.video.tvone112/play/78/1403/play.pvr
 
+#EXTINF:-1 tvg-id="AMCPlus.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/AMC+.png" group-title="TV",AMC +
+https://bcovlive-a.akamaihd.net/ba853de442c140b7b3dc020001597c0a/us-east-1/6245817279001/playlist.m3u8
          #EXTINF:-1 tvg-id="AnimalPlanetEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/AnimalPlanet.png" group-title="TV",~~Animal Planet
          
 #EXTINF:-1 tvg-id="BBCAmericaWest.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/BBCAmerica.png" group-title="TV",BBC America
@@ -201,10 +203,10 @@ https://twcprod-live.twc-tv.com/v1/manifest/b4d4d63a49309cc5140171fb2e92485c31be
 #---------------------------------------------Cooking / Home -------------------------------------------
 #EXTINF:-1 tvg-id="HGTV.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/HGTV.png" group-title="TV",~~~HGTV
 plugin://plugin.video.tvone112/play/78/1422/play.pvr
-#EXTINF:-1 tvg-id="MagnoliaNetworkEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/MagnoliaNetworkWhite.png" group-title="TV",Magnolia Network (DIY Network)
-http://170.254.18.106/MAGNOLIA/mono.m3u8
-#EXTINF:-1 tvg-id="FoodNetworkEast.us" tvg-logo="https://i.imgur.com/ljYzkQT.png" group-title="Cooking/Home",Food Network
-http://170.254.18.106/FOOD/mono.m3u8
+         #EXTINF:-1 tvg-id="MagnoliaNetworkEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/MagnoliaNetworkWhite.png" group-title="TV",Magnolia Network (DIY Network)
+         #http://170.254.18.106/MAGNOLIA/mono.m3u8
+         #EXTINF:-1 tvg-id="FoodNetworkEast.us" tvg-logo="https://i.imgur.com/ljYzkQT.png" group-title="Cooking/Home",Food Network
+         #http://170.254.18.106/FOOD/mono.m3u8
 #EXTINF:-1 tvg-id="bonappetit.us" tvg-logo="https://i.imgur.com/YhFFxlE.png" group-title="Cooking/Home",bon appétit
 https://bonappetit-samsung.amagi.tv/playlist.m3u8
 
