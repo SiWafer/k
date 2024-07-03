@@ -10,6 +10,7 @@
 
 #EXTINF:-1 tvg-id="AMCPlus.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/AMC+.png" group-title="TV",AMC +
 https://bcovlive-a.akamaihd.net/ba853de442c140b7b3dc020001597c0a/us-east-1/6245817279001/playlist.m3u8
+
          #EXTINF:-1 tvg-id="AnimalPlanetEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/AnimalPlanet.png" group-title="TV",~~Animal Planet
          
 #EXTINF:-1 tvg-id="BBCAmericaWest.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/BBCAmerica.png" group-title="TV",BBC America
