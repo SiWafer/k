@@ -122,7 +122,8 @@ https://pbs.lls.cdn.pbs.org/est/index.m3u8
 #EXTINF:-1 tvg-id="CinemaxEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/cinemax.png" group-title="Premium",Cinemax East
 http://fl2.moveonjoy.com/CINEMAX_EAST/index.m3u8
 
-         #EXTINF:-1 tvg-id="HBOEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/HBO.png" group-title="Premium",HBO
+#EXTINF:-1 tvg-id="HBOEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/HBO.png" group-title="Premium",HBO
+http://fl2.moveonjoy.com/HBO/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO2East.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/HBO2.png" group-title="Premium",HBO 2
 http://fl2.moveonjoy.com/HBO_2/index.m3u8
