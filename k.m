@@ -130,8 +130,8 @@ http://fl2.moveonjoy.com/HBO_2/index.m3u8
 #EXTINF:-1 tvg-id="HBOComedyEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/HBOComedyog.png" group-title="Premium",HBO Comedy
 http://fl2.moveonjoy.com/HBO_COMEDY/index.m3u8
 
-#EXTINF:-1 tvg-id="HBOFamilyEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/HBOFamilyOrange.png" group-title="Premium",HBO Family
-http://fl2.moveonjoy.com/HBO_FAMILY/index.m3u8
+         #EXTINF:-1 tvg-id="HBOFamilyEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/HBOFamilyOrange.png" group-title="Premium",HBO Family
+         #http://fl2.moveonjoy.com/HBO_FAMILY/index.m3u8
 
 #EXTINF:-1 tvg-id="HBOZoneEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/HBOzone.png" group-title="Premium",HBO Zone
 http://fl2.moveonjoy.com/HBO_ZONE/index.m3u8
