@@ -66,7 +66,7 @@ https://lnc-ion.tubi.video/playlist.m3u8
 #EXTINF:-1 tvg-id="Lifetime.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/Lifetime.png" group-title="TV",Lifetime
 http://fl2.moveonjoy.com/LIFETIME/index.m3u8
 
-#EXTINF:-1 tvg-id="LifetimeMoviesEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/Lifetime.png" group-title="TV",Lifetime Movie Network
+#EXTINF:-1 tvg-id="LifetimeMoviesEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/LifetimeMovieNetwork.png" group-title="TV",Lifetime Movie Network
 http://fl2.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
 
          #EXTINF:-1 tvg-id="NationalGeographicEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/NationalGeographic.png" group-title="TV",National Geographic 
