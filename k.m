@@ -22,8 +22,8 @@ https://bcovlive-a.akamaihd.net/4e7f273ae0a04ad6b7d2e543df61e362/us-west-2/62407
          #plugin://plugin.video.tvone112/play/78/2691/play.pvr
 
 #EXTINF:-1 tvg-id="CartoonNetworkEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/CartoonNetwork2.png" group-title="TV",Cartoon Network aka SWIM
-#https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_us/streams/us/AdultSwimEast.us.m3u8
-http://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
+https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_us/streams/us/AdultSwimEast.us.m3u8
+#http://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="ComedyCentralEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/ComedyCentral.png" group-title="TV",~~~Comedy Central
 plugin://plugin.video.tvone112/play/78/1411/play.pvr
@@ -128,8 +128,8 @@ http://fl2.moveonjoy.com/HBO/index.m3u8
 #EXTINF:-1 tvg-id="HBO2East.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/HBO2.png" group-title="Premium",HBO 2
 http://fl2.moveonjoy.com/HBO_2/index.m3u8
 
-#EXTINF:-1 tvg-id="HBOComedyEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/HBOComedyog.png" group-title="Premium",HBO Comedy
-http://fl2.moveonjoy.com/HBO_COMEDY/index.m3u8
+         #EXTINF:-1 tvg-id="HBOComedyEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/HBOComedyog.png" group-title="Premium",HBO Comedy
+         #http://fl2.moveonjoy.com/HBO_COMEDY/index.m3u8
 
          #EXTINF:-1 tvg-id="HBOFamilyEast.us" tvg-logo="https://raw.githubusercontent.com/SiWafer/k/main/icon/HBOFamilyOrange.png" group-title="Premium",HBO Family
          #http://fl2.moveonjoy.com/HBO_FAMILY/index.m3u8
